@@ -1,2 +1,2 @@
 # testgithub
-First GitHub repository for testing.
+That's another readme file in temporary testing branch.
